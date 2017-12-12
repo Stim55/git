@@ -1,4 +1,4 @@
 print("hello")
 print("hi boy")
 print("hi")
-print("новая фича")
+print("new fish")
